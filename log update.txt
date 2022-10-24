@@ -1,0 +1,11 @@
+Update 2.2
+
+1. Fitur Pengaturan Profil pengguna
+2. Fitur Ubah Password pada pengaturan profil
+3. Fitur reset password default oleh admin
+4. Pengajuan TUP BOK
+5. Cetak dokumen pengajuan TUP
+6. Cetak dokumen SPTJ TUP
+7. Cetak dokumen Pernyataan TUP
+
+9. Perbaikan realisasi DPA
